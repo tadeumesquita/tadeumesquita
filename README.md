@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https://www.twitter.com/tadeumesquita)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2Ftadeumesquita)
 
 <!--
 **tadeumesquita/tadeumesquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
